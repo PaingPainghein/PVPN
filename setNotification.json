@@ -1,1 +1,5 @@
-
+{
+  "title": "My Notification",
+  "text": "This is a sample notification with an image.",
+  "imageUrl": "https://example.com/image.jpg"
+}
